@@ -21,7 +21,11 @@ Electricity is the flow of electric charge, typically through a conductor like c
 [Quantum Electronics](https://chatgpt.com/g/g-67b73844eb808191a67fbc3f541f5078-quantum-electronics) is a custom GPT for theoretical quantum electronic modeling—a computational approach that investigates the behavior of electrons within molecules, solids, and nanoscale systems using quantum mechanics. It assists users in exploring how electrons interact with each other, atomic nuclei, and external fields by solving the Schrödinger equation and related quantum mechanical formulations. By leveraging a variety of theoretical methods—ranging from Hartree-Fock and density functional theory (DFT) to advanced techniques like coupled cluster theory and configuration interaction—this GPT helps analyze and predict key electronic properties such as energy levels, band structures, molecular orbitals, absorption spectra, and magnetic responses. These insights are vital for understanding fundamental chemical bonding, molecular structure, and reactivity, and play a crucial role in designing new materials and molecules in fields like materials science, nanotechnology, and pharmaceuticals. The GPT guides users step-by-step through complex modeling processes, making high-level quantum theory accessible for both educational and professional applications.
 
 #
-![Unlimited](https://github.com/user-attachments/assets/f671450c-c96f-4576-a0fb-99a33cb8aae5)
+
+![Scuffed Angled Yellow PC Case](https://github.com/user-attachments/assets/9b0f88a2-32b6-4b80-b33c-3abd03ac4742)
+
+[PC Case Design](https://chatgpt.com/g/g-678adc783a7c81918936700afe7cda4a-pc-case-design) was made to help users through the process of designing and engineering custom PC cases. It helps determine the purpose and specifications of a build, such as hardware compatibility, cooling needs, and airflow dynamics. Through a step-by-step, multiple-choice process, it assists in selecting suitable materials (like aluminum, steel, or tempered glass), internal layouts, fan placements, and cable management systems. It also considers aesthetics, modularity, and customization options, such as RGB lighting or tool-free installation features. Ultimately, it helps users develop a complete, production-ready PC case design with attention to durability, functionality, and manufacturing feasibility.
+
 #
 
 [Electric](https://chat.openai.com/g/g-YaLJCEyMs-electric)
