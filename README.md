@@ -39,3 +39,5 @@ Electricity is the flow of electric charge, typically through a conductor like c
 [Electromotive Modelling](https://chatgpt.com/g/g-675e1a6a20b48191a67d422a7e5666f6-electromotive-modelling)
 <br>
 [FlopV](https://chatgpt.com/g/g-683d407301fc81918f38270a071248b7-flopv)
+<br>
+[Computer Hardware](https://github.com/sourceduty/Computer_Hardware)
