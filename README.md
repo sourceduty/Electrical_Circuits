@@ -27,8 +27,6 @@ Electricity is the flow of electric charge, typically through a conductor like c
 [PC Case Design](https://chatgpt.com/g/g-678adc783a7c81918936700afe7cda4a-pc-case-design) was made to help users through the process of designing and engineering custom PC cases. It helps determine the purpose and specifications of a build, such as hardware compatibility, cooling needs, and airflow dynamics. Through a step-by-step, multiple-choice process, it assists in selecting suitable materials (like aluminum, steel, or tempered glass), internal layouts, fan placements, and cable management systems. It also considers aesthetics, modularity, and customization options, such as RGB lighting or tool-free installation features. Ultimately, it helps users develop a complete, production-ready PC case design with attention to durability, functionality, and manufacturing feasibility.
 
 #
-![Ohm's Law](https://github.com/user-attachments/assets/33426ff6-a826-4e38-b68b-7363a50193db)
-#
 
 [Electric](https://chat.openai.com/g/g-YaLJCEyMs-electric)
 <br>
