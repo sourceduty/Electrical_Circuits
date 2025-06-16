@@ -28,7 +28,11 @@ Electricity is the flow of electric charge, typically through a conductor like c
 
 
 #
-![Math](https://github.com/user-attachments/assets/cd0b73cf-ba27-415c-b543-321b2dbee3ec)
+
+![Emergency Generator](https://github.com/user-attachments/assets/f5e9ddc2-76e6-463a-84d1-0fd4fa829610)
+
+[Emergency Electric](https://chatgpt.com/g/g-68509555db4c81918954cf3239ed6eaa-emergency-electric) is designed to assist users in engineering and optimizing emergency electricity generation systems for a wide range of applications including residential, commercial, industrial, and off-grid scenarios. It specializes in guiding users through load calculations to properly size generators, select appropriate fuel types (diesel, natural gas, propane, solar hybrid), and design systems that meet specific runtime, noise, and regulatory requirements. It provides detailed schematics, wiring diagrams, and component lists that integrate critical elements like automatic transfer switches (ATS), battery banks, inverters, and renewable sources. The GPT also recommends reliable manufacturers, helps troubleshoot inefficiencies, and suggests features for redundancy, safe ventilation, grounding, and remote monitoring. Its proactive, step-by-step approach includes simulation of power loads, fuel consumption forecasts, and smart control integration, making it a comprehensive expert resource for building robust and resilient backup power systems.
+
 #
 
 [Electric](https://chat.openai.com/g/g-YaLJCEyMs-electric)
