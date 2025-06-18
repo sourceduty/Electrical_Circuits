@@ -56,3 +56,5 @@ Electricity is the flow of electric charge, typically through a conductor like c
 [Computer Hardware](https://github.com/sourceduty/Computer_Hardware)
 <br>
 [Wireless Power](https://github.com/sourceduty/Wireless_Power)
+<br>
+[UART](https://chatgpt.com/g/g-67a046f6b8f881919c50ccde1aa17bb2-uart)
