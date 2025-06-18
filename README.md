@@ -35,7 +35,7 @@ Electricity is the flow of electric charge, typically through a conductor like c
 
 #
 
-![Sensors](https://github.com/user-attachments/assets/8626e9c2-56a9-4854-97bd-65a2a2d1d7bd)
+![Sensors](https://github.com/user-attachments/assets/620e6d41-a2a7-4919-8d2d-8c543bd0ae14)
 
 [Sensor Calibration](https://chatgpt.com/g/g-uGKloGHOe-sensor-calibration) is a custom GPt developed specifically to assist users in calibrating sensors for Arduino and Raspberry Pi projects. It offers detailed, step-by-step guidance for setting up and fine-tuning a wide variety of sensors, such as temperature, humidity, gas, motion, light, and pressure sensors. Whether you're a beginner working on your first DIY electronics project or an advanced maker developing a complex embedded system, this GPT simplifies the calibration process through interactive, multiple-choice questioning to ensure accurate and reliable sensor readings. It also provides tailored code examples, wiring diagrams, and troubleshooting tips to help identify and correct issues such as signal noise, incorrect data ranges, or hardware mismatches. With a technical yet user-friendly approach, Sensor Calibration empowers users to get the most out of their sensor-based projects on platforms like Arduino and Raspberry Pi.
 
