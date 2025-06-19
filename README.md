@@ -75,3 +75,5 @@ Applying Signal Optimate to Analog-to-Digital Conversion (ADC) presents a novel 
 [Wireless Power](https://github.com/sourceduty/Wireless_Power)
 <br>
 [UART](https://chatgpt.com/g/g-67a046f6b8f881919c50ccde1aa17bb2-uart)
+<br>
+[Integrated Circuits](https://github.com/sourceduty/Integrated_Circuits)
