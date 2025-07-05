@@ -84,6 +84,10 @@ Level 7 – Complex: Hardware Platform
 (smartphone, laptop, robot, drone, server)
 ```
 
+<br>
+
+Whether programming is easier than electrical engineering depends on the individual's background, interests, and cognitive strengths, but generally, many people perceive programming as more accessible due to its lower barrier to entry and the abundance of learning resources available online. Programming often involves logical thinking, problem-solving, and working with abstract data structures, which can be learned incrementally through hands-on practice with minimal equipment—just a computer and the right software. In contrast, electrical engineering typically requires a deeper understanding of physical laws, such as electromagnetism and circuit theory, as well as practical knowledge of hardware systems, which can be more complex and less forgiving in terms of experimentation and troubleshooting. Additionally, electrical engineering often necessitates expensive lab equipment, safety considerations, and a solid grasp of advanced mathematics, making it more daunting for beginners. However, both fields are intellectually demanding in their own ways, and mastering either one requires dedication, curiosity, and time; the perception of difficulty often comes down to personal preference and the context in which the subject is being studied.
+
 #
 
 ![Binary](https://github.com/user-attachments/assets/07920d53-984a-4ec4-b194-1a3aa16a3ea7)
