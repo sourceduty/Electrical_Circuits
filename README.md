@@ -114,8 +114,6 @@ Whether programming is easier than electrical engineering depends on the individ
 <br>
 [Wireless Power](https://github.com/sourceduty/Wireless_Power)
 <br>
-[UART](https://chatgpt.com/g/g-67a046f6b8f881919c50ccde1aa17bb2-uart)
-<br>
 [Integrated Circuits](https://github.com/sourceduty/Integrated_Circuits)
 <br>
 [Linear Induction](https://chatgpt.com/g/g-6860bde96fbc8191a1c226ce1b151b7b-linear-induction)
