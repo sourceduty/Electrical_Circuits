@@ -1,5 +1,4 @@
-![Gadgets](https://github.com/user-attachments/assets/61dcad3b-fdbc-4b21-8a98-5f3f77d08d43)
-![Hacked](https://github.com/user-attachments/assets/611355bd-2a9a-4946-9e97-5c3b6f1b9bec)
+![Wild Volts](https://github.com/user-attachments/assets/957972a2-b422-4dc2-b3bf-57e38106dc94)
 
 Electricity is the flow of electric charge, typically through a conductor like copper wire, and it powers nearly every modern device—from lights and motors to computers and communication systems. Electrical hacking, in an ethical and legal context, refers to the analysis, modification, and troubleshooting of electronic systems to better understand their design, improve functionality, enhance security, or recover lost capabilities. This often involves reverse engineering hardware, interpreting circuit schematics, debugging embedded systems, and probing electronic components safely using tools like multimeters, oscilloscopes, and logic analyzers. [Electricity Spark](https://chatgpt.com/g/g-6837ef8bb1ec8191b96e89f5b84e7d4d-electricity-spark) is a specialized assistant designed to help users navigate the complex world of electronics and electrical engineering. It provides expert-level guidance on tasks like diagnosing faulty circuits, safely modifying PCBs, analyzing microcontroller behavior, and using software such as Arduino IDE or KiCad. With a strong emphasis on safety, legal use, and responsible hacking practices, it serves educational, diagnostic, or authorized security research purposes only, ensuring users understand how to work with electronic devices without causing harm or violating ethical standards.
 
@@ -101,6 +100,7 @@ Whether programming is easier than electrical engineering depends on the individ
 [UART](https://chatgpt.com/g/g-67a046f6b8f881919c50ccde1aa17bb2-uart) is a common communication protocol used by many electronic devices, including various types of sensors. One advantage that UART-based sensor modules offer over other interfaces like I2C or SPI is the ease of use provided by on-board data conversion and signal conditioning circuitry within the module itself. This allows for simplified integration into microcontroller projects without requiring additional external components to convert raw analog signals from the sensor into usable digital values.
 
 #
+![Gadgets](https://github.com/user-attachments/assets/61dcad3b-fdbc-4b21-8a98-5f3f77d08d43)
 ![No China](https://github.com/user-attachments/assets/abb31324-578c-443e-a56a-0787e44981ad)
 #
 
