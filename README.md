@@ -124,3 +124,5 @@ Whether programming is easier than electrical engineering depends on the individ
 [Linear Induction](https://chatgpt.com/g/g-6860bde96fbc8191a1c226ce1b151b7b-linear-induction)
 <br>
 [Music Audio](https://github.com/sourceduty/Music_Audio)
+<br>
+[Fluid Logic](https://github.com/sourceduty/Fluid_Logic)
